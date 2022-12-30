@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GENELink-main/GENELink-main/Demo/.idea/Demo.iml" filepath="$PROJECT_DIR$/../GENELink-main/GENELink-main/Demo/.idea/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GCNPredictor.iml" filepath="$PROJECT_DIR$/.idea/GCNPredictor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GCNPredictor_V1/.idea/GCNPredictor_V1.iml" filepath="$PROJECT_DIR$/../GCNPredictor_V1/.idea/GCNPredictor_V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../20220901/code/GRN-Transformer-master/GRN-Transformer-master/.idea/GRN-Transformer-master.iml" filepath="$PROJECT_DIR$/../../../20220901/code/GRN-Transformer-master/GRN-Transformer-master/.idea/GRN-Transformer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PT-GNN-main/PT-GNN-main/.idea/PT-GNN-main.iml" filepath="$PROJECT_DIR$/../PT-GNN-main/PT-GNN-main/.idea/PT-GNN-main.iml" />
+    </modules>
+  </component>
+</project>
